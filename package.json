@@ -1,7 +1,7 @@
 {
-  "name": "mini-checkout",
+  "name": "mini-store-checkout",
   "version": "1.0.0",
-  "description": "A single-page checkout with browser tests.",
+  "description": "A single-page checkout in plain HTML, CSS and JavaScript, tested with Playwright.",
   "private": true,
   "scripts": {
     "test": "playwright test",
